@@ -1,5 +1,5 @@
-# pwasm-abi
-Parity WASM Abi (Legacy and new)
+# twasm-abi
+Tetsy WASM Abi (Legacy and new)
 
 [![Build Status](https://travis-ci.org/paritytech/pwasm-abi.svg?branch=master)](https://travis-ci.org/paritytech/pwasm-abi)
 
